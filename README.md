@@ -14,4 +14,4 @@ If you are not so familiar with python do the following:
 1. Download and install python from their official page (google it) and make sure it python is added to PATH (there will be a choice to add it during the installation).
 2. Open the command prompt (or terminal on mac) and write "pip install selenium".
 3. Once the install finished, add chromedriver to your PATH (see above for instruction and download).
-4. Run the script. It should start with "Monitoring (linkname)" if it works properly. My prefered method is to write "python3 kotScrape.py" in the command prompt. 
+4. Run the script. It should start with "Monitoring (linkname)" if it works properly. My preferred method is to write "python3 kotScrape.py" in the command prompt. 
