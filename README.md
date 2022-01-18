@@ -7,7 +7,7 @@ The script uses the selenium library and chrome as the browser for the checks. S
 
 For people familiar with python, simply pip install the selenium library ("pip install selenium" in command prompt) and make sure you have chromedriver in your PATH ([[instructions](https://www.youtube.com/watch?v=dz59GsdvUF8)], [[download](https://sites.google.com/chromium.org/driver/)]). If your chrome version is v.97 then download ChromeDriver 97 (or any to match your browser). 
 
-Before you run the script, make sure you have changed the email you want the notification to be sent to. Since you will be sending from your own email, you have to "log in" by writing your email adress and password. This is somewhat unsafe since the script won't be encrypted, so I recommend setting up an temporary email adress to send from.
+Before you run the script, make sure you have changed the email you want the notification to be sent to in the script. Since you will be sending from your own email, you have to "log in" by writing your email adress and password. This is somewhat unsafe since the script won't be encrypted, so I recommend setting up an temporary email adress to send from. The script is written for emails from outlook, but can be used for any email services. If you aren't using outlook, change 'smtp-mail.outlook.com' in the script to your email provider (search for "smtp (your_email_provider)").
 
 If you are not so familiar with python do the following:
 
